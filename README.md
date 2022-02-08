@@ -1,3 +1,3 @@
-# Exercicios-Python
+# Python
 
-### Esses sõa alguns exercícios simples/básicos que eu fiz em python
+### Essas são algumas anotações e alguns exercícios que eu fiz em/sobre Python
